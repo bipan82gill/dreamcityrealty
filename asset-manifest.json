@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/dreamcityrealty/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dreamcityrealty/static/js/main.53c4fb0c.chunk.js",
-    "main.js.map": "/dreamcityrealty/static/js/main.53c4fb0c.chunk.js.map",
-    "runtime-main.js": "/dreamcityrealty/static/js/runtime-main.3f199cdc.js",
-    "runtime-main.js.map": "/dreamcityrealty/static/js/runtime-main.3f199cdc.js.map",
-    "static/js/2.41e2bfa7.chunk.js": "/dreamcityrealty/static/js/2.41e2bfa7.chunk.js",
-    "static/js/2.41e2bfa7.chunk.js.map": "/dreamcityrealty/static/js/2.41e2bfa7.chunk.js.map",
-    "static/js/3.87ee323f.chunk.js": "/dreamcityrealty/static/js/3.87ee323f.chunk.js",
-    "static/js/3.87ee323f.chunk.js.map": "/dreamcityrealty/static/js/3.87ee323f.chunk.js.map",
+    "main.css": "/dreamcityrealty/static/css/main.d0a26862.chunk.css",
+    "main.js": "/dreamcityrealty/static/js/main.e0992045.chunk.js",
+    "main.js.map": "/dreamcityrealty/static/js/main.e0992045.chunk.js.map",
+    "runtime-main.js": "/dreamcityrealty/static/js/runtime-main.4809e158.js",
+    "runtime-main.js.map": "/dreamcityrealty/static/js/runtime-main.4809e158.js.map",
+    "static/js/2.0fa82265.chunk.js": "/dreamcityrealty/static/js/2.0fa82265.chunk.js",
+    "static/js/2.0fa82265.chunk.js.map": "/dreamcityrealty/static/js/2.0fa82265.chunk.js.map",
+    "static/js/3.d014c3c8.chunk.js": "/dreamcityrealty/static/js/3.d014c3c8.chunk.js",
+    "static/js/3.d014c3c8.chunk.js.map": "/dreamcityrealty/static/js/3.d014c3c8.chunk.js.map",
     "index.html": "/dreamcityrealty/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/dreamcityrealty/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.41e2bfa7.chunk.js.LICENSE.txt": "/dreamcityrealty/static/js/2.41e2bfa7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dreamcityrealty/static/media/logo.6ce24c58.svg"
+    "static/css/main.d0a26862.chunk.css.map": "/dreamcityrealty/static/css/main.d0a26862.chunk.css.map",
+    "static/js/2.0fa82265.chunk.js.LICENSE.txt": "/dreamcityrealty/static/js/2.0fa82265.chunk.js.LICENSE.txt",
+    "static/media/buy.b5f6a5f9.jpg": "/dreamcityrealty/static/media/buy.b5f6a5f9.jpg",
+    "static/media/App.css": "/dreamcityrealty/static/media/room-2.48c60181.jpeg",
+    "static/media/rent.9832bdf9.jpg": "/dreamcityrealty/static/media/rent.9832bdf9.jpg",
+    "static/media/sale.b910cd21.jpg": "/dreamcityrealty/static/media/sale.b910cd21.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f199cdc.js",
-    "static/js/2.41e2bfa7.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.53c4fb0c.chunk.js"
+    "static/js/runtime-main.4809e158.js",
+    "static/js/2.0fa82265.chunk.js",
+    "static/css/main.d0a26862.chunk.css",
+    "static/js/main.e0992045.chunk.js"
   ]
 }
